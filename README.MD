@@ -40,4 +40,5 @@ Font Awesome - https://fontawesome.com/download/blob/master/LICENSE.md)*
 Contact details (mumokaren@gmail.com, 079792951, )
 
 ### License
-*LIcenced under the [MT-licence](git@github.com:EMMA-KAREN/personal.git/blob/master/LICENSE.md)
+
+*LIcenced under the [MT-licence]https://github.com/EMMA-KAREN/my-model-pertfolio/blob/master/LICENCE.md)
