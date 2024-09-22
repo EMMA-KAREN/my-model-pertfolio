@@ -25,7 +25,7 @@ Contact Form: A basic contact form allows visitors to send messages directly fro
           3.Link URLs (optional): Update links in the navigation bar and testimonials section if needed.
 
 ## Live server
-* You can view the web live on [Portfolio](git@github.com:EMMA-KAREN/personal.git/)
+* You can view the web live on [Portfolio]https://emma-karen.github.io/my-model-pertfolio/
 
 ## Known Bugs
 The application works perfectly well, no bugs.
