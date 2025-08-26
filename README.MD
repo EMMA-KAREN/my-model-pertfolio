@@ -1,5 +1,5 @@
-# Portfolio
-#### The app is my Portfolio, 22/09/2024
+#model portfolio
+#### The app 22/09/2024
 #### **By EMMACULATE MWIKALI**
 
 ## Description
